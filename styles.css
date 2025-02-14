@@ -1,0 +1,39 @@
+html,
+body {
+  background-color: lightpink;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  overflow: hidden;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 50px;
+  margin: 0;
+}
+
+button {
+  background-color: FF62DA;
+  border: black;
+  color: DB10FF;
+  text-align: center;
+  padding: 15px 32px;
+  white-space: nowrap;
+  font-family: verdana;
+  font-size: 2rem;
+  border-radius: 32px;
+}
+
+#myButton {
+  position: absolute;
+}
+
+h1 {
+  color: mediumpurple;
+  text-align: center;
+}
+
+p {
+  color: mediumpurple;
+  font-family: verdana;
+  font-size: 30px;
+}
